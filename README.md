@@ -1,4 +1,4 @@
-# Financial Analyst Copilot
+# Financial Analyst Chatbot
 
 AI-powered financial chatbot built for the BCG GenAI Virtual Experience Program.
 
